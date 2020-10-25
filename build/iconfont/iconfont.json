@@ -1,0 +1,114 @@
+{
+  "id": "2124013",
+  "name": "taobao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "485763",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "2570064",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "5193376",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "10664706",
+      "name": "搜索 search",
+      "font_class": "search",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "606303",
+      "name": "更多",
+      "font_class": "gengduomore10",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "14055536",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "5030",
+      "name": "购物车满",
+      "font_class": "gouwucheman",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1346666",
+      "name": "淘宝",
+      "font_class": "taobao",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1306",
+      "name": "购物车空",
+      "font_class": "gouwuchekong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1687154",
+      "name": "我的",
+      "font_class": "ziyuan",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "6177915",
+      "name": "首页",
+      "font_class": "ico-",
+      "unicode": "e80f",
+      "unicode_decimal": 59407
+    },
+    {
+      "icon_id": "6911486",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11542836",
+      "name": "订单",
+      "font_class": "dingdan2",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13478682",
+      "name": "我的",
+      "font_class": "A",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "16942326",
+      "name": "订单",
+      "font_class": "dingdan3",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}
